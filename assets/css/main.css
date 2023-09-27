@@ -76,6 +76,7 @@ input, select, textarea {
 .descript{
 	font-style: italic;
 	font-size: 50%;
+	display: block;
 
 }
 
